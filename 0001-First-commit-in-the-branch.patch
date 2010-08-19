@@ -1,0 +1,47 @@
+From 4c86822d0f4e7d9baa511837ef645e4095b4c04e Mon Sep 17 00:00:00 2001
+From: halcyonmeter <halcyonmeter@gmail.com>
+Date: Wed, 18 Aug 2010 23:51:49 -0400
+Subject: [PATCH] First commit in the branch
+
+---
+ contact.html |    9 +++++++++
+ index.html   |    9 +++++++++
+ 2 files changed, 18 insertions(+), 0 deletions(-)
+ create mode 100644 contact.html
+ create mode 100644 index.html
+
+diff --git a/contact.html b/contact.html
+new file mode 100644
+index 0000000..8d8d4e5
+--- /dev/null
++++ b/contact.html
+@@ -0,0 +1,9 @@
++<html>
++<head>
++<title>Contact Page</title>
++</head>
++<body>
++<h1>Contact Page</h1>
++<p>This is the contact page.</p>
++</body>
++</html>
+\ No newline at end of file
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..631c058
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,9 @@
++<html>
++<head>
++<title>Home Page</title>
++</head>
++<body>
++<h1>Home Page</h1>
++<p>This is the home page.</p>
++</body>
++</html>
+\ No newline at end of file
+-- 
+1.5.4.3
+
